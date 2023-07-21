@@ -1,0 +1,12 @@
+U V W X Y Z
+U X 5
+U V 7
+U W 3
+V W 3
+V Y 4
+W X 4
+W Y 8
+X Y 7
+X Z 9
+Y Z 2
+EOF
